@@ -15,7 +15,7 @@ Toto dílo je chráněno autorským právem a je licencováno pod licencí Creat
 
 
 
-[![en](https://img.shields.io/badge/Details-info-red.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![en](https://img.shields.io/badge/Details_info-red.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
 
