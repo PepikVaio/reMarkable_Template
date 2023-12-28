@@ -1,6 +1,3 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_Template/tree/main/re-Planner)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Template/blob/main/re-Planner/.github/README.cs.md)
-
 # Security Policy and Procedures
 
 ...
