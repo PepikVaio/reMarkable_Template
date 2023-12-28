@@ -1,6 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# Zvýraznit soubor s názvem my-widget.md
-my-widget.md linguist-documentation
-
+# Příklad - Zvýraznění souborů s názvem my-info.md
+my-info.md linguist-documentation
