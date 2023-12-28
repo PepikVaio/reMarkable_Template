@@ -1,8 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# Vytvoří soubor README.md jako prioritní pro zobrazení na GitHubu.
-README.md linguist-documentation
+# Zvýraznit soubor s názvem my-widget.md
+my-widget.md linguist-documentation
 
-# Zakáže zvýrazňování souborů se jménem CONTRIBUTING.md v liště.
-CONTRIBUTING.md linguist-documentation linguist-filename
