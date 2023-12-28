@@ -1,5 +1,2 @@
 # Auto detect text files and perform LF normalization
-#* text=auto
-
-# Příklad - Zvýraznění souborů s názvem my-info.md
-my-info.md linguist-documentation
+* text=auto
