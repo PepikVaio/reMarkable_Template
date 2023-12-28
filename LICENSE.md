@@ -9,4 +9,14 @@ This work is protected by copyright and licensed under the Creative Commons Attr
 ### Česky
 Toto dílo je chráněno autorským právem a je licencováno pod licencí Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International Licence. Můžete kopírovat, distribuovat a přenášet dílo pouze za nekomerčních podmínek a bez vytváření odvozených děl.
 
-[![cs](https://img.shields.io/badge/Detailní_informace-springgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs)
+[![cs](https://img.shields.io/badge/Detailní_informace-cs-springgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs)
+
+
+
+
+
+
+Toto dílo je licencováno pod CC BY-NC-ND 4.0. Chcete-li zobrazit kopii této licence, navštivte http://creativecommons.org/licenses/by-nc-nd/4.0/© 2 od W
+reMarkable_Templateje licencováno pod CC BY-NC-ND 4.0© 2 od Wajsar Josef 
+reMarkable_Templateje licencováno pod CC BY-NC-ND 4.0© 2 od Wajsar Josef 
+reMarkable_Templateje licencováno pod CC BY-NC-ND 4.0© 2 od Wajsar Josef 
